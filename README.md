@@ -120,7 +120,8 @@ Please note that bothdirandfilecan be either a simple name, e.g., figure.jpg, or
 1. Run Client: `$ java trabalho1.Client`
     - For a list of commands use `help`
     - We recommend the following:
-        ```$ find /server_teste
+        ```
+        $ find /server_teste
         $ ls
         $ init / /server_teste (/ is treated as default, which is 'dir_da_class')
         $ get file1.txt
